@@ -1,0 +1,26 @@
+h1{
+    font: 500;
+    text-align: center;
+    text-shadow: deeppink;
+    font-size: 75px;
+    color: red;
+    background-color: royalblue;
+}
+html{
+    background-image: url(/lufik1v.jpg);
+    background-position: center;
+
+}
+#rose{
+    width: 200px;
+    
+}
+
+img{
+    width: 500px;
+    position: center;
+
+}
+.img{
+margin: 0% 33% 0% 33%;
+}
